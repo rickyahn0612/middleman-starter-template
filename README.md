@@ -1,6 +1,7 @@
 middleman-starter-template
 ==========================
 Barebones Middleman Starter Template w/github pages
+Using HAML and SASS
 
 CDNS
 - font-awsome 4.0.3
